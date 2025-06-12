@@ -1,6 +1,12 @@
 import tkinter as tk
 from tkinter import messagebox
 
+#Elizeu Walczuk Ruthes
+#Luiz 
+
+
+
+
 class ChessTimer:
     def __init__(self, root, turno_callback, jogo_xadrez_instance):
         self.root = root
